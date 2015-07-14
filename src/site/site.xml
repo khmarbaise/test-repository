@@ -4,6 +4,10 @@
     <src>http://soebes.de/images/weblogo.gif</src>
     <href>http://www.soebes.de/</href>
   </bannerRight>
+  3. Change on testing
+  3. Change on testing
+  3. Change on testing
+  3. Change on testing
   <skin>
     <groupId>org.apache.maven.skins</groupId>
     <artifactId>maven-fluido-skin</artifactId>
