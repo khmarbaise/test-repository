@@ -10,6 +10,7 @@ License
 
 Homepage
 --------
+squash
 1. Change new_testing
 1. Change new_testing
 2. Change on branch testing.

@@ -12,6 +12,7 @@ Task 1
   KONFLIKT
   KONFLIKT
   KONFLIKT
+  Change on squash
   KONFLIKT
   KONFLIKT
   MORE KONFLIKT
@@ -66,6 +67,10 @@ Task 1
     </developer>
   </developers>
 
+  Change on squash
+  Change on squash
+  Change on squash
+  Change on squash
   <!-- Must be overwritten in every project. -->
   <issueManagement>
     <system>GitHub</system>
