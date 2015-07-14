@@ -7,6 +7,10 @@
   <version>1.1.1-SNAPSHOT</version>
   <packaging>pom</packaging>
 
+
+  First change
+
+  2.Change
   <name>SoEBeS Maven Parent POM</name>
   <description>This POM contains the default configuration for all projects which are located in com.soebes</description>
   <url>https://github.com/khmarbaise/smpp</url>
