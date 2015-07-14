@@ -19,6 +19,7 @@ The Maven Site for the current release [http://khmarbaise.github.com/smpp/](http
 
 Status
 ------
+Task User 2
 
 TODOs
 -----
