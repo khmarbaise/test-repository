@@ -1,6 +1,7 @@
 [SoEBeS](http://www.soebes.de) Maven Parent POM
 =======================
 
+Task -1
 This pom defines some defaults which are used within [my](http://www.soebes.com) projects.
 
 License
